@@ -22,8 +22,6 @@ We’re excited to collaborate with the community! Browse our repositories, open
 - **Developer-Friendly**: Clear docs and code samples to get you up and running.  
 - **Community-Driven**: We value your contributions and feedback.
 
-<img width="1440" height="5955" alt="baner" src="https://github.com/user-attachments/assets/37eee007-cf10-4155-a5e3-37b6b75fa9db" />
-
 ---
 <div align="center">
   <a href="https://fusionproxy.net">
