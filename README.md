@@ -12,9 +12,9 @@ We’re excited to collaborate with the community! Browse our repositories, open
 
 ## Contact Us
 
-- 🌐 Website: [fusionproxy.io](https://fusionproxy.io) *(Update with your actual website)*  
-- 📧 Email: [contact@fusionproxy.io](mailto:contact@fusionproxy.io) *(Update with your actual email)*  
-- 🐦 Twitter: [@fusionproxy](https://twitter.com/fusionproxy) *(Update with your actual Twitter handle)*  
+- 🌐 Website: [fusionproxy.net](https://fusionproxy.net) *(Update with your actual website)*  
+- 📧 Email: [contact@fusionproxy.net](mailto:contact@fusionproxy.net) *(Update with your actual email)*  
+- 🐦 Telegram: [@fusionproxies](https://twitter.com/fusionproxies) *(Subscribe to our channel)*  
 
 ## Why **FusionProxy**?
 
