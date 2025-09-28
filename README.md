@@ -25,8 +25,11 @@ We’re excited to collaborate with the community! Browse our repositories, open
 <img width="1440" height="5955" alt="baner" src="https://github.com/user-attachments/assets/37eee007-cf10-4155-a5e3-37b6b75fa9db" />
 
 ---
-
-[![Ad](https://github.com/user-attachments/assets/37eee007-cf10-4155-a5e3-37b6b75fa9db)](https://fusionproxy.net)
+<div align="center">
+  <a href="https://fusionproxy.net">
+    <img src="https://github.com/user-attachments/assets/37eee007-cf10-4155-a5e3-37b6b75fa9db" alt="FusionProxy Ad" style="max-width: 600px; width: 100%; height: auto;">
+  </a>
+</div>
 
 ---
 
