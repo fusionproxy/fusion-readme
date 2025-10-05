@@ -25,7 +25,7 @@ We’re excited to collaborate with the community! Browse our repositories, open
 ---
 <div align="center">
   <a href="https://fusionproxy.net">
-    <img src="https://github.com/user-attachments/assets/37eee007-cf10-4155-a5e3-37b6b75fa9db" alt="FusionProxy Ad" style="max-width: 600px; width: 100%; height: auto;">
+    <img src="https://iili.io/KXA53Jf.png" alt="FusionProxy Ad" style="max-width: 600px; width: 100%; height: auto;">
   </a>
 </div>
 
